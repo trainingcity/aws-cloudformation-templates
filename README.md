@@ -1,5 +1,7 @@
-# AWS CloudFormation Sample Templates
+# AWS CloudFormation Sample Templates - Updated with Public Examples from TeamWorks.ai
 Use sample AWS CloudFormation templates to learn how to declare specific AWS resources or solve a particular use case. We recommend that you use sample templates as a starting point for creating your own templates, not for launching production-level environments. Before launching a template, always review the resources that it will create and the permissions it requires.
+
+Sample TeamWorks.ai templates are included in this branch. DO NOT launch any template from this branch, they are for example purposes ONLY.
 
 ## About the Repository
 The AWS CloudFormation team and approved contributors provide and maintain sample templates in the `aws ` folder. 
